@@ -1,0 +1,16 @@
+{
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./__pycache__",
+        "-p",
+        "test_*.py"
+    ],
+    "python.unitTest.promptToConfigure": false
+}
