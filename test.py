@@ -5,7 +5,6 @@ print(a)
 
 b = 'hello'
 # print(b.strip(0))
-
 # print(b.)
 
 tex = 'Hello world'
